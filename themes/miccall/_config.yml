@@ -5,17 +5,17 @@
 # Head info
 head:
     favicon: "/img/logo_miccall.png"
-    keywords: miccall
+    keywords: 萧梦语
     backgroundpic : "img/bg.jpg"
 
 Intro:
-    name: MICCALL
-    slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    name: 赵炳琦
+    slogan: "The hard part isn’t making the decision. It’s living with it."
+    HeadButton: 萧梦语
 
 Nav:
     Home_name: 主页
-    is_use_categories : true 
+    is_use_categories : fasle
     categories_name: 分类
     is_use_archives : false
     archives_name: 归档
@@ -23,24 +23,24 @@ Nav:
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
-        github: https://github.com/miccall
-        500px: http://500px.com
-        
+        github: https://github.com/GaryBeacher
+#        500px: http://500px.com
+
     pages:
         简历: 
             link: "/about/"
-        团队 :
+        技术 :
             link: "/group/"
         图库 :
             link: "/gallery/"
-        标签:
+        日常:
             link: "/tag/"
         #自定义标签名
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
-    description: Technical  Artist  of  Games   
+    name: 21克的重量
+    description: 我不想谋生，我想生活。
     pic_url: /images/me.jpg
     goto_ulr: ""
 
