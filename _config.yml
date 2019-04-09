@@ -101,3 +101,5 @@ jsonContent:
     excerpt: false
     categories: false
     tags: true
+
+  post_asset_folder: true #博客图片
