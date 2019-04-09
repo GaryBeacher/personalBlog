@@ -12,6 +12,6 @@
 
 ## 开发启动
     hexo server //localhost:4000
-    hexo server -p 50oy00 //localhost:5000  更改端口号
+    hexo server -p 5000 //localhost:5000  更改端口号
 ## 发布到github
     hexo deploy
